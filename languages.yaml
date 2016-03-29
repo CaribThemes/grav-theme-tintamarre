@@ -36,9 +36,9 @@ en:
 fr:
 # Menu
     MENU_HOME: Accueil
-    MENU_ABOUT: A propos
-    MENU_THEMES: Thèmes
-    MENU_ERROR: Erreur
+    MENU_ABOUT: À propos
+    MENU_THEMES: Autres thèmes
+    MENU_ERROR: Page d'erreur
     MENU_CONTACT: Restons en contact
 # Footer
     FOOTER_COPYRIGHT: Tintamarre est inspiré par <a href="http://www.gettemplate.com/info/magister/" target="_blank" title="Sergey Pozhilov">Magister</a> et adapté pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
