@@ -1,0 +1,14 @@
+name: Tintamarre
+version: 1.0.0
+description: "A FREE responsive Grav Theme based on Bootstrap & ported by CaribThemes."
+icon: empire
+author:
+  name: MATsxm for CaribThemes
+  email: mat@idimweb.com
+  url: http://caribthemes.io
+homepage: https://github.com/CaribThemes/grav-theme-tintamarre
+demo: http://caribthemes.io/demo/tintamarre
+keywords: theme, responsive, html5, css3, design, photo
+bugs: https://github.com/CaribThemes/grav-theme-tintamarre/issues
+license: Creative Commons Attribution 3.0
+credit: "Design by Sergey Pozhilov, ported to Grav by CaribThemes, photos by MATsxm."
