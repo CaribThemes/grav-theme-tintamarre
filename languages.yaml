@@ -1,0 +1,61 @@
+en:
+# Menu
+    MENU_HOME: Home
+    MENU_ABOUT: About Tintamarre
+    MENU_THEMES: More Themes
+    MENU_ERROR: Error Page
+    MENU_CONTACT: Get in touch
+# Footer
+    FOOTER_COPYRIGHT: Tintamarre is inspired by <a href="http://www.gettemplate.com/info/magister/" target="_blank" title="Sergey Pozhilov">Magister</a> and ported for <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> by <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
+# Home
+    HOME_SUB_TITLE: Free Grav theme by CaribThemes
+    HOME_TAGLINE: Tintamarre is a free responsive theme, based on<br>Magister & ported for the flat CMS Grav.
+    HOME_DOWNLOAD_BTN: Download Tintamarre now!
+# About
+    ABOUT_AUTHOR_LINKS: Author links
+# Themes
+    THEMES_SUBTITLE: Carib Themes is proud to propose you different<br>free resources for your website!
+    THEMES_THUMB_TITLE1: Prickly Pear Theme
+    THEMES_THUMB_DESC1: A FREE light and responsive one page template for the Flat CMS Grav.
+    THEMES_THUMB_TITLE2: Saba Theme
+    THEMES_THUMB_DESC2: A FREE responsive Gallery template for the Flat CMS Grav.
+    THEMES_DEMO_BTN: Demo
+    THEMES_DOWNLOAD_BTN: Download
+# Error
+    ERROR_TYPE: Error
+    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
+    ERROR_BTN: Back to the beach!
+# Contact form
+    CONTACT_TITLE: Contact
+    CONTACT_FORM_NAME: Name
+    CONTACT_FORM_EMAIL: name@example.com
+    CONTACT_FORM_SUBJECT: Subject
+    CONTACT_FORM_MESSAGE: Your message
+    CONTACT_FORM_BTN_SUBMIT: Submit
+
+fr:
+# Menu
+    MENU_HOME: Accueil
+    MENU_ABOUT: A propos
+    MENU_THEMES: Thèmes
+    MENU_ERROR: Erreur
+    MENU_CONTACT: Restons en contact
+# Footer
+    FOOTER_COPYRIGHT: Tintamarre est inspiré par <a href="http://www.gettemplate.com/info/magister/" target="_blank" title="Sergey Pozhilov">Magister</a> et adapté pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
+# Home
+    HOME_SUB_TITLE: Free Grav theme by CaribThemes
+    HOME_TAGLINE: Tintamarre is a free responsive theme, based on<br>Magister & ported for the flat CMS Grav.
+    HOME_DOWNLOAD_BTN: Download Tintamarre now!
+# About
+    ABOUT_AUTHOR_LINKS: Author links
+# Contact form
+    CONTACT_TITLE: Contact
+    CONTACT_FORM_NAME: Nom
+    CONTACT_FORM_EMAIL: nom@exemple.com
+    CONTACT_FORM_SUBJECT: Objet du message
+    CONTACT_FORM_MESSAGE: Votre message
+    CONTACT_FORM_BTN_SUBMIT: Envoyer
+# Error
+    ERROR_TYPE: Erreur
+    ERROR_DESC: Oups ! - Il semble que vous soyez perdu.<br/>Il est temps de quitter vos chaussures et de retourner à la plage...
+    ERROR_BTN: Retour à la plage !
