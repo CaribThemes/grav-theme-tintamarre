@@ -8,7 +8,7 @@ http://creativecommons.org/licenses/by/3.0/
 * Ported by **CaribThemes** - http://caribthemes.io
 * Ported to **Grav** - https://getgrav.org/
 * Photos by **Marc Antoine Thevenet - _MATsxm_** under BeerWare License
-* CaribThemes is a Trademark of **IDIM_web_** - http://idimweb.com
+* CaribThemes is a Trademark of **IDIMweb** - http://idimweb.com
 
 =====
 
