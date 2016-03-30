@@ -1,0 +1,18 @@
+<section class="section" id="about">
+	<div class="container">
+		<h2 class="text-center title">{{ page.title }}</h2>
+		<div class="row">
+            <!-- Content from about.md -->
+			<div class="col-sm-4 col-sm-offset-2">
+                <h5><strong>{{ page.header.subtitle1 }}<br></strong></h5>
+                {{ page.header.content1 }}
+			</div>
+			<div class="col-sm-4">
+				<h5><strong>{{ page.header.subtitle2 }}<br></strong></h5>
+                {{ page.header.content2 }}   
+				<h5><strong>{{ "ABOUT_AUTHOR_LINKS"|t }}<br></strong></h5>    
+				<p><a href="#">Andrew MacDonald</a> / <a href="#">Twitter</a> / <a href="#">LinkedIn</a> / <a href="#">Facebook</a></p>
+            </div>
+		</div>
+	</div>
+</section>
