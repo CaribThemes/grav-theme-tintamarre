@@ -1,12 +1,9 @@
 # Tintamarre Theme for the CMS Grav
 
 [![version](https://img.shields.io/badge/version-v1.0.0-green.svg?style=flat-square)](https://github.com/CaribThemes/grav-theme-tintamarre/releases)
-
 [![Demo](https://img.shields.io/badge/Demo-Tintamarre-blue.svg?style=flat-square)](http://caribthemes.io/demo/tintamarre)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/CaribThemes/grav-theme-tintamarre/blob/master/LICENSE.md)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/CaribThemes/grav-theme-tintamarre)
 
-> **Tintamarre** is a **FREE** minimalist Photo Theme ported by [**CaribThemes**](http://caribthemes.io) for the [**Grav**](http://getgrav.org) CMS and inspired by Astral by HTML5up.
+> **Tintamarre** is a **FREE** minimalist responsive Theme ported by [**CaribThemes**](http://caribthemes.io) for the [**Grav**](http://getgrav.org) CMS and inspired by Magister by Sergey Pozhilov.
 
 ![Tintamarre](assets/readme_1.png)
 
@@ -29,8 +26,6 @@ See the **Tintamarre** Template live [here](http://caribthemes.io/demo/tintamarr
 ## Features
 * Fully Responsive
 * HTML5 and CSS3
-* Photo Gallery with lightBox
-* Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
 * Contact Form
 * Multilingual ready - (demo in :uk: & :fr:)
 * Custom Error page
@@ -112,15 +107,12 @@ You want to share your site build with Tintamarre?
 Feel free to add your site here...
 
 ## Support & Bugs
-* If you need a support please go to the dedicated [![Join the chat at https://gitter.im/CaribThemes/grav-theme-tintamarre](https://badges.gitter.im/CaribThemes/grav-theme-tintamarre.svg)](https://gitter.im/CaribThemes/grav-theme-tintamarre?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * If you find bugs, please report them on [here](https://github.com/CaribThemes/grav-theme-tintamarre/issues)
 
 ## Credits
 * [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/CaribThemes/grav-theme-tintamarre/master/LICENSE.md)
-* Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under __WTFPL__ (see LICENSE)
-* Inspired by the template Astral by [HTML5 up](http://html5up.net/)
-* [LightBox2](https://github.com/lokesh/lightbox2) by Lokesh
-* [Back To Top](https://github.com/CodyHouse/back-to-top) feature by [CodyHouse](https://github.com/CodyHouse)
+* Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under __BeerWare__ (see LICENSE)
+* Inspired by the template Magister by [Sergey Pozhilov](http://pozhilov.com)
 
 >> __DISCLAIMER__
 
