@@ -1,0 +1,30 @@
+<section class="section" id="themes">
+	<div class="container">
+		<h2 class="text-center title">{{ page.title }}</h2>
+		<p class="lead text-center">{{ "THEMES_SUBTITLE"|t }}</p>
+		<div class="row">
+            <!-- Thumb 1 -->
+			<div class="col-sm-4 col-sm-offset-2">
+				<div class="thumbnail">
+                    <img src="{{ url('theme://images/screenshots/prickly.png')}}" alt="">
+					<div class="caption">
+						<h3>{{ "THEMES_THUMB_TITLE1"|t }}</h3>
+						<p>{{ "THEMES_THUMB_DESC1"|t }}</p>
+						<p><a href="http://caribthemes.io/demo/pricklypear/" target="_blank" class="btn btn-primary" role="button">{{ "THEMES_DEMO_BTN"|t }}</a> <a href="https://github.com/CaribThemes/grav-theme-pricklypear/releases" class="btn btn-default" target="_blank" role="button">{{ "THEMES_DOWNLOAD_BTN"|t }}</a></p>
+					</div>
+				</div>
+			</div>
+            <!-- Thumb 2 -->
+			<div class="col-sm-4">
+				<div class="thumbnail">
+					<img src="{{ url('theme://images/screenshots/saba.png')}}" alt="">
+					<div class="caption">
+						<h3>{{ "THEMES_THUMB_TITLE2"|t }}</h3>
+						<p>{{ "THEMES_THUMB_DESC2"|t }}</p>
+						<p><a href="http://caribthemes.io/demo/saba/en" target="_blank" class="btn btn-primary" role="button">{{ "THEMES_DEMO_BTN"|t }}</a> <a href="https://github.com/CaribThemes/grav-theme-saba/releases" target="_blank" class="btn btn-default" role="button">{{ "THEMES_DOWNLOAD_BTN"|t }}</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

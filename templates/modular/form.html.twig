@@ -1,0 +1,39 @@
+<section class="section" id="contact">
+	<div class="container">
+		<h2 class="text-center title">{{ page.title }}</h2>
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 text-center">
+				<p class="lead">{{ "CONTACT_SUB_TITLE"|t }}</p>
+				<p>{{ "CONTACT_TAGLINE"|t }}</p>
+				<p><a href="mailto:contact@caribthemes.io"> <b>contact@caribthemes.io</b></a><br><br></p>
+				<ul class="list-inline list-social">
+					<li><a href="https://twitter.com/caribtheme" target="_blank" class="btn btn-link"><i class="fa fa-twitter fa-fw"></i> Twitter</a></li>
+					<li><a href="https://github.com/CaribThemes" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
+					<li><a href="http://http://caribthemes.io/" target="_blank" class="btn btn-link"><i class="fa fa-desktop fa-fw"></i> caribthemes.io</a></li>
+				</ul>
+			</div>
+		</div>
+        <form name="simple_form" id="simple_form" action="https://getsimpleform.com/messages?form_api_token={{ token | e('html_attr') }}" enctype="multipart/form-data" method="post">
+            {# Redirect URL after submit #}
+            <input type="hidden" name="redirect_to" value="{{ redirect_to | e('html_attr') }}" />
+            {# START: input form here #}
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 text-center">
+                    <div class="col-sm-6">
+                        <input type="text" name="name" id="name" placeholder="{{ "CONTACT_FORM_NAME"|t }}" required class="form-control" />
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="email" name="email" id="email" placeholder="{{ "CONTACT_FORM_EMAIL"|t }}" required class="form-control" />
+                    </div>
+                    <div class="col-sm-12">
+                        <textarea name="message" rows="6" id="message" placeholder="{{ "CONTACT_FORM_MESSAGE"|t }}" required class="form-control"></textarea>
+                    {# END: input form here #}
+                    </div>
+                    <div class="">
+                        <button class="btn btn-primary btn-lg">{{ "CONTACT_FORM_BTN_SUBMIT"|t }}</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
