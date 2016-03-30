@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ grav.language.getActive ?: theme_config.default_lang }}">
+<head>
+    {% block head %}
+        <title>{% if header.title %}{{ header.title|e('html') }}|{% endif %}{{ site.title|e('html') }}</title>
+        <meta charset="utf-8" />
+        {% include 'partials/metadata.html.twig' %}
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" type="image/png" href="{{ theme_url }}/images/favicon.png" />
+        <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href='http://fonts.googleapis.com/css?family=Wire+One' rel='stylesheet' type='text/css'>
+        {% block stylesheets %}
+            {% do assets.addCss('theme://css/tintamarre.css') %}
+        {% endblock %}
+        {{ assets.css() }}
+    {% endblock head%}
+</head>
+<body class="theme-invert">
+        {% include 'partials/navigation.html.twig' %}
+        {% block body %}
+            {% block content %}{% endblock %}
+        {% endblock %}
+	    {% block footer %}
+	       {% include 'partials/footer.html.twig' %}    
+	    {% endblock %}
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	{% block javascripts %}
+        {% do assets.addJs('theme://js/modernizr.custom.72241.js') %}
+		{% do assets.addJs('theme://js/tintamarre.js') %}  
+	{% endblock %}
+	{{ assets.js() }}
+</body>
+</html>
