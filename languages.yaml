@@ -36,18 +36,18 @@ en:
 fr:
 # Menu
     MENU_HOME: Accueil
-    MENU_ABOUT: À propos
+    MENU_ABOUT: À propos de Tintamarre
     MENU_THEMES: Autres thèmes
     MENU_ERROR: Page d'erreur
     MENU_CONTACT: Restons en contact
 # Footer
-    FOOTER_COPYRIGHT: Tintamarre est inspiré par <a href="http://www.gettemplate.com/info/magister/" target="_blank" title="Sergey Pozhilov">Magister</a> et adapté pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a>.
+    FOOTER_COPYRIGHT: Tintamarre est inspiré par <a href="http://www.gettemplate.com/info/magister/" target="_blank" title="Sergey Pozhilov">Magister</a> et adapté pour <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> par <a href="http://caribthemes.io" target="_blank" title="Themes pourle CMS Grav">Carib Themes</a>.
 # Home
-    HOME_SUB_TITLE: Free Grav theme by CaribThemes
-    HOME_TAGLINE: Tintamarre is a free responsive theme, based on<br>Magister & ported for the flat CMS Grav.
-    HOME_DOWNLOAD_BTN: Download Tintamarre now!
+    HOME_SUB_TITLE: Thème gratuit pour Grav par CaribThemes
+    HOME_TAGLINE: Tintamarre est un thème responsive gratuit, inspiré par<br>Magister & adapté pour le CMS Grav.
+    HOME_DOWNLOAD_BTN: Télécharger Tintamarre !
 # About
-    ABOUT_AUTHOR_LINKS: Author links
+    ABOUT_AUTHOR_LINKS: Les liens de l'auteur
 # Contact form
     CONTACT_TITLE: Contact
     CONTACT_FORM_NAME: Nom
