@@ -26,10 +26,10 @@ en:
     ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
     ERROR_BTN: Back to the beach!
 # Contact form
-    CONTACT_TITLE: Contact
+    CONTACT_SUB_TITLE: Have a question about this template, or want to suggest a new feature,
+    CONTACT_TAGLINE: Feel free to email us or share with us!
     CONTACT_FORM_NAME: Name
     CONTACT_FORM_EMAIL: name@example.com
-    CONTACT_FORM_SUBJECT: Subject
     CONTACT_FORM_MESSAGE: Your message
     CONTACT_FORM_BTN_SUBMIT: Submit
 
@@ -48,14 +48,22 @@ fr:
     HOME_DOWNLOAD_BTN: Télécharger Tintamarre !
 # About
     ABOUT_AUTHOR_LINKS: Les liens de l'auteur
-# Contact form
-    CONTACT_TITLE: Contact
-    CONTACT_FORM_NAME: Nom
-    CONTACT_FORM_EMAIL: nom@exemple.com
-    CONTACT_FORM_SUBJECT: Objet du message
-    CONTACT_FORM_MESSAGE: Votre message
-    CONTACT_FORM_BTN_SUBMIT: Envoyer
+# Themes
+    THEMES_SUBTITLE: Carib Themes est fiers de vous proposer gratuitement<br>différentes ressources pour votre site Web!
+    THEMES_THUMB_TITLE1: Thème Prickly Pear
+    THEMES_THUMB_DESC1: Un Template gratuit One-Page léger et responsive pour le CMS sans base de données Grav.
+    THEMES_THUMB_TITLE2: Thème Saba
+    THEMES_THUMB_DESC2: Un Template gratuit portofolio et responsive pour le CMS sans base de données Grav.
+    THEMES_DEMO_BTN: Démo
+    THEMES_DOWNLOAD_BTN: Télécharger
 # Error
     ERROR_TYPE: Erreur
-    ERROR_DESC: Oups ! - Il semble que vous soyez perdu.<br/>Il est temps de quitter vos chaussures et de retourner à la plage...
+    ERROR_DESC: Oups ! - Il semble que vous vous soyez égaré.<br/>Il est temps de quitter vos chaussures et de retourner à la plage...
     ERROR_BTN: Retour à la plage !
+# Contact form
+    CONTACT_SUB_TITLE: Vous avez des questions à propos de ce template ou vous souhaitez nous faire par de vos remarques ?
+    CONTACT_TAGLINE: N'hésitez pas à nous contacter ou à nous suivre !
+    CONTACT_FORM_NAME: Nom
+    CONTACT_FORM_EMAIL: nom@exemple.com
+    CONTACT_FORM_MESSAGE: Votre message
+    CONTACT_FORM_BTN_SUBMIT: Envoyer
